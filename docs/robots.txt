@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://andyshenjx.github.io/Media-Info-Mac/sitemap.xml
